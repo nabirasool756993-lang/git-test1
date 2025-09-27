@@ -1,0 +1,7 @@
+so now what i am doing is ihve created sum filesl1,2 and i have edited thefiles the command is vi and ofter thet i hve modifid both fies then
+added to git with command name is git add .
+then cheack status ofter that i have commited the files to git the commnd name is git -m commit " new messge "
+and commiting isover so now what i am doing is master to iam going main branch 
+and i hve created one text.txt
+then vi to enter summ content next
+git status and i am saving this one the command is :wq
